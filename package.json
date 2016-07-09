@@ -1,0 +1,26 @@
+{
+  "name": "lo-diff",
+  "version": "1.0.5",
+  "description": "Utility to calculate the deep diff of two objects",
+  "main": "lo-diff.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "diff",
+    "deep-diff",
+    "lodash"
+  ],
+  "author": "Sean Kenney",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
